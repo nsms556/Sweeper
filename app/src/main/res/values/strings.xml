@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sweeper</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Welcome to Sweeping!</string>
+    <string name="nav_header_subtitle">뉴스를 밀어서 잠금해제</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">내 설정</string>
+    <string name="menu_tools">기타</string>
+    <string name="menu_news">뉴스</string>
+    <string name="button_refresh">새로고침</string>
+    <string name="add_word_title">추가 할 주제</string>
+    <string name="add_word_button">추가</string>
+    <string name="add_word_menu_item">검색어 추가</string>
+    <string name="list_view_delete">삭제</string>
+    <string name="tools_list1">문의사항</string>
+    <string name="tools_list2">Google 뉴스 바로가기</string>
+    <string name="news_share_text">공유하기</string>
+
+</resources>
